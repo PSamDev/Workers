@@ -4,7 +4,7 @@ identity = input("Name.....")
 branch = input("Branch.....")
 office = input("Office.....")
 
-print("To confirm your identity, please fill in the lines to show the names of overseers in your branch")
+print("To confirm your identity, please confirm the informations below to show the names of workers in your branch")
 
 first, managingdirector = input("Managing Director...Mr "), "is the Managing Director"
 second, hiringmanager = input("hiring manager...Mr "), "is the hiring manager"
